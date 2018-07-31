@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # This script leverages the great work from the Python Xmp Toolkit https://github.com/python-xmp-toolkit/python-xmp-toolkit 
-#2018-07-20T10:54:38-0700 Fri huari4@gmail.com testing http://python-xmp-toolkit.readthedocs.io/en/latest/index.html after install of exempi from debian repo
+#2018-07-20T10:54:38-0700 Fri huari4 dot gmail dot com testing http://python-xmp-toolkit.readthedocs.io/en/latest/index.html after install of exempi from debian repo
 # program is able to read the metadata from files listed as arguments
 
 import sys
